@@ -1,8 +1,8 @@
 ---
-description: Finilized Proposal
+description: Proposta Finalizada
 ---
 
-# 🎇 Finalize ✔
+# 🎇 Finalização ✔
 
 **Problem statement :**
 

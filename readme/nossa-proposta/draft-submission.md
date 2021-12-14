@@ -1,11 +1,9 @@
 ---
-description: First "The Catalyst School | LATAM" proposal draft submission
+description: Primeiro Rascunho da proposta que cria a "Catalyst School | LATAM"
 ---
 
-# 📝 Draft submission ✔
+# 📝 Submissão do Rascunho ✔
 
-In the SUBMIT PROPOSAL Stage, the proposals are submitted and community starts to give feedback.
+Na fase "Submissão do Rascunho da Proposta",as propostas são submetidas ao IdeaScale e a comunidade inicia o processo de feedback para o Proponente.
 
-{% embed url="https://docs.google.com/document/d/1q23MZ49iDGbMhP91ocsVozTOkeDqjvZoEef2Gn8qb9g/edit" %}
-Catalyst School Fund 7 Draft Proposal
-{% endembed %}
+Saiba mais sobre o Processo do Projeto Catalyst [aqui](https://catalyst-swarm.gitbook.io/the-catalyst-school/v/portuguese/)!

@@ -1,13 +1,13 @@
 ---
-description: Follow-up our proposal refining stage
+description: Acompanhe a fase de refino da proposta
 ---
 
-# 📄 Refine✔
+# 📄 Refino✔
 
-In the REFINE stage community members give proposals feedback to help evolving the proposal.
+Na fase "Refino da Proposta", os membros da comunidade dão feedback para ajudar na evolução e desenvolvimento da proposta.
+
+Saiba mais sobre o Processo do Projeto Catalyst [aqui](https://catalyst-swarm.gitbook.io/the-catalyst-school/v/portuguese/)!
 
 {% embed url="https://docs.google.com/document/d/1K8W0ZDzlwNTx54B3Eeul5lv6lDklowzjJMZTobmzQpA/edit" %}
-Proposal in the Refine Stage
+Fase "Refino da Proposta"
 {% endembed %}
-
-### Get involved! Visit the [doc](https://docs.google.com/document/d/1K8W0ZDzlwNTx54B3Eeul5lv6lDklowzjJMZTobmzQpA/edit)

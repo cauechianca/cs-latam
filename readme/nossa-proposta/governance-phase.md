@@ -1,7 +1,7 @@
 ---
-description: Voting stage
+description: Fase de Votação
 ---
 
-# 📩 Governance Phase 🔐
+# 📩 Governança 🔐
 
 TBD
