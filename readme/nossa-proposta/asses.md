@@ -1,7 +1,9 @@
 ---
-description: tbd
+description: Asses Stage
 ---
 
 # 🔎 Asses  ⏳
 
-TBD
+In this stage, Community advisors review the proposals.
+
+More info: [https://catalyst-swarm.gitbook.io/the-catalyst-school/](https://catalyst-swarm.gitbook.io/the-catalyst-school/)
