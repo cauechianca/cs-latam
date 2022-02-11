@@ -2,9 +2,9 @@
 
 * [🎓 Catalyst School | LATAM](README.md)
   * [📃 Our Proposal](catalyst-school-or-latam/our-proposal/README.md)
-    * [🔎 Asses  ⏳](catalyst-school-or-latam/our-proposal/asses.md)
-    * [👓 Asses QA 🔐](catalyst-school-or-latam/our-proposal/asses-qa.md)
-    * [📩 Governance Phase 🔐](catalyst-school-or-latam/our-proposal/governance-phase.md)
+    * [🔎 Asses ✔](catalyst-school-or-latam/our-proposal/asses.md)
+    * [👓 Asses QA ✔](catalyst-school-or-latam/our-proposal/asses-qa.md)
+    * [📩 Governance Phase ✔](catalyst-school-or-latam/our-proposal/governance-phase.md)
     * [📝 Draft submission ✔](catalyst-school-or-latam/our-proposal/draft-submission.md)
     * [📄 Refine✔](catalyst-school-or-latam/our-proposal/refine.md)
     * [🎇 Finalize ✔](catalyst-school-or-latam/our-proposal/finalize.md)
